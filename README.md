@@ -60,15 +60,8 @@ Para iniciar el proyecto en tu entorno local:
 
 <p align="center">
    <img src="./docs/images/home.png" alt="Pantalla de Inicio" width="300">
-</p>
-
-<!-- Prompt for image generation: A mobile app home screen showing a personal carbon footprint summary, quick action buttons for logging activities, and a news feed with eco-tips -->
-
-<p align="center">
    <img src="./docs/images/actividad.png" alt="Registro de Actividades" width="300">
 </p>
-
-<!-- Prompt for image generation: A mobile interface for logging daily activities such as transportation, energy use, and recycling, with intuitive icons and sliders -->
 
 ## 📚 Guía de Usuario
 

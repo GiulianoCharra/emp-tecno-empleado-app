@@ -1,36 +1,99 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 📱 EcoHuella Mobile: Seguimiento Personal de Huella de Carbono (Demo PWA)
 
-## Getting Started
+<p align="center">
+   <img src="./docs/images/logo.png" alt="EcoHuella Mobile Logo" width="50%" max-width="200px">
+</p>
 
-First, run the development server:
+## 📊 Sobre la Aplicación Móvil (Demo PWA)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+EcoHuella Mobile es una demostración de la extensión para empleados de nuestra solución integral de gestión de huella de carbono. Desarrollada como parte del proyecto EcoHuella para el curso de Emprendimiento Tecnológico en la carrera de Ingeniería en Sistemas de Información.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+**Nota Importante:** Esta versión es una demo de una Progressive Web App (PWA) que se enfoca principalmente en el diseño del front-end con funcionalidad mínima/simulada. No representa un producto completamente funcional en esta etapa.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### 👥 Equipo
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- Giuliano Benicio Charra Marquez
+- Abril Barragán
 
-## Learn More
+## 🚀 Características Principales (Simuladas)
 
-To learn more about Next.js, take a look at the following resources:
+- 👤 Perfil personal de huella de carbono
+- 📝 Registro diario de actividades
+- 📊 Visualización de estadísticas personales
+- 🏆 Desafíos y recompensas por reducción de emisiones
+- 📰 Noticias y consejos eco-amigables
+- 🔔 Notificaciones y recordatorios personalizados
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🛠 Tecnologías Utilizadas
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+- ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
+- ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-## Deploy on Vercel
+## 🚀 Comenzando
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Para iniciar el proyecto en tu entorno local:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+1. Clona el repositorio:
+   ```bash
+   git clone https://github.com/tu-usuario/ecohuella-mobile.git
+   ```
+
+2. Navega al directorio del proyecto:
+   ```bash
+   cd ecohuella-mobile
+   ```
+
+3. Instala las dependencias:
+   ```bash
+   npm install
+   ```
+
+4. Inicia la aplicación:
+   ```bash
+   npm start
+   ```
+
+5. Abre la URL proporcionada en tu navegador móvil para ver la PWA en acción.
+
+## 📸 Capturas de Pantalla
+
+<p align="center">
+   <img src="./docs/images/home.png" alt="Pantalla de Inicio" width="300">
+</p>
+
+<!-- Prompt for image generation: A mobile app home screen showing a personal carbon footprint summary, quick action buttons for logging activities, and a news feed with eco-tips -->
+
+<p align="center">
+   <img src="./docs/images/actividad.png" alt="Registro de Actividades" width="300">
+</p>
+
+<!-- Prompt for image generation: A mobile interface for logging daily activities such as transportation, energy use, and recycling, with intuitive icons and sliders -->
+
+## 📚 Guía de Usuario
+
+Para obtener información detallada sobre cómo usar la demo de EcoHuella Mobile PWA, consulta nuestra [guía de usuario](./docs/USER_GUIDE.md).
+
+## 🔧 Configuración y Desarrollo
+
+Si eres un desarrollador interesado en explorar o contribuir a esta demo, revisa nuestra [guía de desarrollo](./docs/DEVELOPMENT.md) para instrucciones detalladas sobre la configuración del entorno y las mejores prácticas.
+
+## 🤝 Contribuir
+
+Aunque esta es una demo, ¡tus sugerencias son bienvenidas! Por favor, lee nuestra [guía de contribución](CONTRIBUTING.md) para conocer cómo puedes ayudar a mejorar EcoHuella Mobile.
+
+## 📄 Licencia
+
+Este proyecto de demostración está licenciado bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
+
+## 📞 Soporte
+
+Si tienes preguntas o sugerencias sobre esta demo, por favor crea un issue en este repositorio o contáctanos:
+
+- 📧 Email: support@ecohuella.com
+- 💬 Chat en vivo: Disponible en la aplicación demo
+- 📱 Redes sociales: [@EcoHuellaMobile](https://twitter.com/EcoHuellaMobile)
+
+---
+
+Desarrollado con 💚 por el equipo de EcoHuella
